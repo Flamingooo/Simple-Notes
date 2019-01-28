@@ -1,12 +1,12 @@
 <resources>
-    <string name="app_name">Paprasti užrašai</string>
+    <string name="app_name">Paprasta užrašinė</string>
     <string name="app_launcher_name">Užrašai</string>
     <string name="widget_config">Ačiū, jog naudojate Simple Notes.\nDaugiau paprastų programų rasite SimpleMobileTools.com.</string>
     <string name="cannot_share_empty_text">Negalima dalintis tuščiu įrašu</string>
-    <string name="simple_note">Paprastas užrašas</string>
-    <string name="new_note">Pridėti naujà įrašą</string>
+    <string name="simple_note">Paprastas įrašas</string>
+    <string name="new_note">Pridėti naują įrašą</string>
     <string name="no_title">Įrašo pavadinimas</string>
-    <string name="title_taken">Įrašas tokiu pavadinimu jau egzistuoja</string>
+    <string name="title_taken">Toks įrašo pavadinimas jau yra</string>
     <string name="open_note">Atverti įrašą</string>
     <string name="delete_note">Ištrinti įrašą</string>
     <string name="delete_note_prompt_message">Ar tikrai norite ištrinti įrašą \"%s\"?</string>
@@ -15,49 +15,49 @@
     <string name="general_note">Pagrindinis įrašas</string>
     <string name="create_new_note">Kurti naują įrašą</string>
     <string name="add_to_note">Papildyti įrašą</string>
-    <string name="unsaved_changes_warning">You have some unsaved changes. What do you want to do with them?</string>
-    <string name="note_shown_widget">Note shown in the widget:</string>
-    <string name="new_note_type">New note type:</string>
-    <string name="text_note">Text note</string>
+    <string name="unsaved_changes_warning">Turite neišsaugotų įrašo pakeitimų. Ką su jais atlikti?</string>
+    <string name="note_shown_widget">Įrašas valdiklyje:</string>
+    <string name="new_note_type">Naujo įrašo tipas:</string>
+    <string name="text_note">Tekstinis įrašas</string>
 
     <!-- File notes -->
     <string name="open_file">Atverti failą</string>
     <string name="export_as_file">Kurti kopiją</string>
-    <string name="file_too_large">Failas per didelis, didžiausias leistinas dydis yra 10MB</string>
+    <string name="file_too_large">Failas per didelis, didžiausias leistinas dydis yra 10 MB</string>
     <string name="only_import_file_content">Įkelti tik įrašo turinį\n(Įrašant įrašą jis nebus redaguojamas)</string>
     <string name="update_file_at_note">Atnaujinti failą kai atnaujinamas įrašas\n(Įrašas ištrinamas, jei ištrinamas failas ar pakeičiama įrašymo vieta)</string>
     <string name="delete_file_itself">Taip pat ištrinti failą \"%s\"</string>
     <string name="note_saved_successfully">Įrašas \"%s\" sėkmingai išsaugotas</string>
-    <string name="note_exported_successfully">Sėkmingai sukurta įrašo \"%s\ kopija" </string>
-    <string name="only_export_file_content">Only export the current file content\n(changing the note will not affect the file)</string>
+    <string name="note_exported_successfully">Sėkmingai sukurta įrašo \"%s\" kopija</string>
+    <string name="only_export_file_content">Sukurti tik failo turinio kopiją\n(keičiant įrašą failas nebus pakeistas)</string>
 
     <!-- Settings -->
-    <string name="display_success_message">Rodyti sėkmingo išsaugojimo pranešimus</string>
+    <string name="display_success_message">Rodyti sėkmingo išsaugojimo pranešimą</string>
     <string name="links_and_emails_clickable">Veiksnios nuorodos ir elektroninio pašto adresai</string>
     <string name="place_cursor_end">Perkelti žymeklį į įrašo pabaigą</string>
     <string name="monospaced_font">Pakeisti šrifto stilių</string>
-    <string name="show_keyboard">Rodyti klaviatūrą paleidžiant</string>
+    <string name="show_keyboard">Paleidžiant rodyti klaviatūrą</string>
     <string name="show_word_count">Rodyti žodžių skaičių</string>
     <string name="alignment">Įtrauka</string>
     <string name="left">Kairėje</string>
     <string name="center">Centre</string>
     <string name="right">Dešinėje</string>
-    <string name="widget_note">Įraðas panaudotas šaukinyje</string>
-    <string name="show_note_picker">Rodyti užrašų parinkiklį pajungus programėlę</string>
+    <string name="widget_note">Įrašas panaudotas valdiklyje</string>
+    <string name="show_note_picker">Rodyti įrašų perjungimą</string>
     <string name="autosave_notes">Automatiškai išsaugoti užrašus</string>
-    <string name="enable_line_wrap">naudoti eilutės perkėlimą</string>
-    <string name="use_incognito_mode">Use Incognito mode of keyboards</string>
+    <string name="enable_line_wrap">Eilutės perkėlimas</string>
+    <string name="use_incognito_mode">Klaviatūrų slaptasis režimas</string>
 
     <!-- Checklists -->
-    <string name="checklist">Checklist</string>
-    <string name="add_new_checklist_item">Add a new checklist item</string>
-    <string name="add_new_checklist_items">Add new checklist items</string>
-    <string name="checklist_is_empty">The checklist is empty</string>
+    <string name="checklist">Sąrašas</string>
+    <string name="add_new_checklist_item">Pridėti naują sąrašo skiltį</string>
+    <string name="add_new_checklist_items">Pridėti naujas sąrašo skiltis</string>
+    <string name="checklist_is_empty">Sąrašas tuščias</string>
 
     <!-- Import / Export -->
-    <string name="export_all_notes">Eksportuoti visus užrašus kaip bylas</string>
-    <string name="import_notes">Importuoti keletą bylų, kaip užrašus</string>
-    <string name="import_folder">Import folder</string>
+    <string name="export_all_notes">Kurti visų įrašų kopijas failuose</string>
+    <string name="import_notes">Įkelti failus kaip įrašus</string>
+    <string name="import_folder">Įkelti aplanką</string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
@@ -65,11 +65,11 @@
     <string name="app_long_description">
         Norite greitai pažymėti mintį, pirkinių sąrąšą, adresą ar verslo pradžios idėją? Ši programa būtent tai, ko ieškote! Nėra sudėtingų nustatymų, rašykite ką norite. Įrašų automatinis išsaugojimas užtikrina, jog neprarasite jų per klaidą. Galimas kelių nesusijusių įrašų kūrimas.
 
-        Bet kada galite pasiekti įrašą naudojant šaukinį, kuris išsyk atveria programą.
+        Bet kada galite pasiekti įrašą naudojant valdiklį, kuris išsyk atveria programą.
 
         Neturi reklamų ar nereikalingų leidimų. Programėlė visiškai atviro kodo, yra galimybė keisti spalvas.
 
-        Ši programėle yra viena iš keletos mūsų programėlių. Likusias Jūs galite rasti čia https://www.simplemobiletools.com
+        Ši programėlė yra viena iš keletos mūsų programėlių. Likusias Jūs galite rasti čia https://www.simplemobiletools.com
     </string>
 
     <!--
